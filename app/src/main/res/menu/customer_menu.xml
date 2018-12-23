@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_electronic"
+        android:title="Electronic Devices"/>
+
+    <item android:id="@+id/nav_hb"
+        android:title="Health And Beauty"/>
+
+    <item android:id="@+id/nav_bt"
+        android:title="Babies And Toys"/>
+
+    <item android:id="@+id/groceries"
+        android:title="Groceries"/>
+
+    <item android:id="@+id/hl"
+        android:title="Home And Lifestyle"/>
+
+    <item android:id="@+id/so"
+        android:title="Sports And Outdoor"/>
+
+    <item android:id="@+id/history"
+        android:title="History"/>
+
+    <item android:id="@+id/nav_account"
+        android:title="My Account"/>
+
+    <item android:id="@+id/nav_settings"
+        android:title="Settings"/>
+
+    <item android:id="@+id/nav_logout"
+        android:title="Log Out"/>
+
+</menu>
